@@ -1,1 +1,1 @@
-echo "Bye Bye👋"
+echo "Bye Bye👋 but first Hello!"
